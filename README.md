@@ -4,7 +4,7 @@
 
 ---
 
-🔭 I’m currently working on **frontend projects and rCybersecurity Projects**
+🔭 I’m currently working on **frontend projects and Cybersecurity Projects**
 
 🌱 I’m currently learning **React and Node.js**
 
