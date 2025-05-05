@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mayukh</h1>
 <h3 align="center">A passionate Cybersecurity & Software Engineer based in the UK</h3>
