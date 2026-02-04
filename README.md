@@ -22,14 +22,4 @@
 
 ---
 
-## 📈 GitHub Stats:
 
-<p align="center">
-  <a href="https://github.com/Mayx23456">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Mayx23456&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayx23456&theme=apprentice&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayx23456&layout=compact&theme=apprentice&hide_border=true" />
-  </a>
-</p>
-
----
